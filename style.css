@@ -1,0 +1,29 @@
+/*headings 1*/
+
+.h1{
+     text-decoration: underline;
+    color: plum;
+    font-family: serif;
+    font-style: italic;
+    font-size: 50px   
+}
+
+/*headings 2 and 3*/
+
+.h23{
+    text-decoration-style: wavy;
+   color: mediumvioletred
+   font-family: serif;
+   font-style: italic;
+   font-size: 20px  
+}
+
+/*Paragraphs 1*/
+
+.myPara{
+
+   color: navy;
+   font-family: serif;
+   font-style: italic;
+   font-size: 15px   
+}
